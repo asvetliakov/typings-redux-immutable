@@ -1,0 +1,8 @@
+{
+  "name": "redux-immutable",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/gajus/redux-immutable",
+  "dependencies": {
+    "redux": "github:andrew-w-ross/typings-redux#2e0b57e18c6240d17fde045573d74e649762437b"
+  }
+}
